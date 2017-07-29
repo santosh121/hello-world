@@ -1,3 +1,3 @@
 # hello-world
 a reposiory
-This is firs attempt
+This is first attempt
